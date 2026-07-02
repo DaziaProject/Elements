@@ -7,7 +7,7 @@ export const soils = [
     },
     {
         id: 2,
-        name: "Terra arenosa",
+        name: "Terra Sorrenca",
         img: "./assets/sand.jpg",
         canPlant: false
     }
