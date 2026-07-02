@@ -64,7 +64,7 @@ function renderSoil() {
         mirageAlertShown = true;
     
         setTimeout(() => {
-            alert("Llàstima, el oasi era un miratge(espejismo)");
+            alert("Llàstima, el oasi era un miratge");
         }, 3000);
     }
 }
